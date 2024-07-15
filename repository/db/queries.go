@@ -2,7 +2,7 @@ package db
 
 import(
 	"github.com/gin-gonic/gin"
-	"github.com/satyasiba/library/model"
+	"github.com/satyasiba001/library/model"
 )
 
 
@@ -30,7 +30,7 @@ func getDatafromURL(c *gin.Context){
 	})
 }
 
-func insertIntoDB(){
+// func insertIntoDB(){
 	
-}
+// }
 
